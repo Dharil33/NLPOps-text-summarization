@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/Dharil33/NLPOps-text-summarization
+Author: Dharil33
+Author-email: dharilpatel61857@gmail.com
+Project-URL: Bug Tracker, https://github.com/Dharil33/NLPOps-text-summarization/issues
+License-File: LICENSE
+
+# NLPOps-text-summarization
